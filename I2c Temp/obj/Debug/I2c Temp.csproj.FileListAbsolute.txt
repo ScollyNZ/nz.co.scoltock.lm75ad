@@ -1,0 +1,36 @@
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\le\I2c Temp.exe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\be\I2c Temp.exe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\le\I2c Temp.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\be\I2c Temp.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\I2c Temp.exe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\I2c Temp.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\le\I2c Temp.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\le\I2c Temp.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\be\I2c Temp.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\be\I2c Temp.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\GoBus.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\GoBus.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\GoBus.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\GoBus.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\GoBus.dll
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\bin\Debug\GoBus.pdb
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\I2c Temp.csprojResolveAssemblyReference.cache
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\be\I2c Temp.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\be\I2c Temp.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\le\I2c Temp.pe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\le\I2c Temp.pdbx
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\I2c Temp.exe
+C:\Users\wynss4\Documents\personal\I2c Temp\I2c Temp\obj\Debug\I2c Temp.pdb
